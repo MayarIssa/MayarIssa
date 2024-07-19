@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Dedicated to creating intuitive and dynamic user experiences. Skilled in HTML, CSS, JavaScript, and modern frontend frameworks.</p>
+    <p>Dedicated to create intuitive and dynamic user experiences. Skilled in HTML, CSS, JavaScript, and modern frontend frameworks.</p>
     <h3>Let's Connect:</h3>
     <p>
       <a href="https://linkedin.com/in/mayar-issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
