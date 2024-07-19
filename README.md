@@ -1,5 +1,8 @@
-<h1 align="center">Hello, I'm Mayar Mohamed Issa</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+Stranger;I+am+Mayar+Mohamed;A+Passionate+Frontend+Developer&font=Times+New+Roman&center=true&width=400&height=100&duration=3000&pause=300&color=0000FF" alt="Typing SVG">
+</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -12,7 +15,7 @@
   </div>
   <div style="flex: 1; text-align: center;">
 
-
+</div> <div style="flex: 1;"> <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300" height="200"> </div> 
 
   </div>
 </div>
