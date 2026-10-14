@@ -14,13 +14,13 @@ I design interfaces in **Figma**, then build them for real: front ends in **Next
 | **CareChart EHR** | Patient records for a small clinic: allergy alerts, vital-sign flags, blood-pressure trends, SOAP notes. | Next.js, TypeScript, Zod, Vitest | [Code](https://github.com/MayarIssa/carechart-ehr) |
 | **Shop API** | E-commerce REST API: catalog, cart, transactional checkout, orders, JWT auth, integration tests. | C#, ASP.NET Core, EF Core, SQL Server | [Code](https://github.com/MayarIssa/shop-api) |
 | **Sublime+ website** | Agency website with a Git-backed blog editor and technical SEO. | Next.js, Tailwind CSS, Cloudflare Workers | [Live](https://sublime-plus.com/) · [Code](https://github.com/MayarIssa/Sublime-landing-page) |
-| **BuildFin** | Building finance manager: residents' monthly payments and building expenses in one place. | Next.js, MongoDB Atlas | [Live](https://building11.vercel.app/) |
-| **Nour HR** | Bilingual (Arabic/English) HR system for a pharmacy with several branches. | TypeScript, Arabic RTL | [Live](https://hr-pharmacy-nine.vercel.app/) |
+| **BuildFin** | Building finance manager: residents' monthly payments and building expenses in one place. | Next.js, TypeScript, MongoDB Atlas | [Live](https://building11.vercel.app/) · [Code](https://github.com/MayarIssa/BuildingFinance) |
+| **Nour HR** | Bilingual HR system for a multi-branch pharmacy: schedules, attendance, approvals, payroll, with row-level security on all 25 tables. | Next.js, Supabase, Postgres | [Live](https://hr-pharmacy-nine.vercel.app/) · [Code](https://github.com/MayarIssa/PharmacyHr-) |
 
 ## Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,tailwind,mongodb,git,github,vercel,cloudflare,figma&perline=11" alt="C#, .NET, TypeScript, Next.js, Tailwind CSS, MongoDB, Git, GitHub, Vercel, Cloudflare, Figma" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,tailwind,supabase,postgres,mongodb,git,github,vercel,cloudflare,figma&perline=13" alt="C#, .NET, TypeScript, Next.js, Tailwind CSS, Supabase, PostgreSQL, MongoDB, Git, GitHub, Vercel, Cloudflare, Figma" />
 </p>
 
 ## Get in touch
