@@ -1,32 +1,28 @@
-
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+Stranger;I+am+Mayar+Mohamed;A+Passionate+Frontend+Developer&font=Times+New+Roman&center=true&width=400&height=100&duration=3000&pause=300&color=0000FF" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mayar+Issa;Software+engineer+who+designs+what+she+builds;Next.js+%C2%B7+TypeScript+%C2%B7+ASP.NET+Core&font=Bricolage+Grotesque&weight=700&center=true&width=560&height=70&duration=2800&pause=600&color=2B59FF" alt="Hi, I'm Mayar Issa" />
 </div>
 
+I design interfaces in **Figma**, then build them for real: front ends in **Next.js and TypeScript**, APIs in **ASP.NET Core and SQL Server**, shipped to **Vercel** and **Cloudflare**. Computer Science graduate from Pharos University (GPA 3.76), former teaching assistant, and I built and run the website for [Sublime+](https://sublime-plus.com/).
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>Dedicated to create intuitive and dynamic user experiences. Skilled in HTML, CSS, JavaScript, and modern frontend frameworks.</p>
-    <h3>Let's Connect:</h3>
-    <p>
-      <a href="https://linkedin.com/in/mayar-issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-      <a href="mailto:mayarissawork@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="30" width="40" /></a>
-    </p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+📍 Alexandria, Egypt · Open to junior software engineering roles
 
-</div> <div style="flex: 1;"> <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300" height="200"> </div> 
+## Projects
 
-  </div>
-</div>
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Mentoro** | Mentorship platform with student, mentor and admin dashboards, real-time chat and an AI assistant. Graduation project, team of six. | Next.js, TypeScript, SignalR, next-intl | [Live](https://mentoro2.vercel.app/) · [Code](https://github.com/MayarIssa/MentoroLast) |
+| **CareChart EHR** | Patient records for a small clinic: allergy alerts, vital-sign flags, blood-pressure trends, SOAP notes. | Next.js, TypeScript, Zod, Vitest | [Code](https://github.com/MayarIssa/carechart-ehr) |
+| **Shop API** | E-commerce REST API: catalog, cart, transactional checkout, orders, JWT auth, integration tests. | C#, ASP.NET Core, EF Core, SQL Server | [Code](https://github.com/MayarIssa/shop-api) |
+| **Sublime+ website** | Agency website with a Git-backed blog editor and technical SEO. | Next.js, Tailwind CSS, Cloudflare Workers | [Live](https://sublime-plus.com/) · [Code](https://github.com/MayarIssa/Sublime-landing-page) |
+| **BuildFin** | Building finance manager: residents' monthly payments and building expenses in one place. | Next.js, MongoDB Atlas | [Live](https://building11.vercel.app/) |
+| **Nour HR** | Bilingual (Arabic/English) HR system for a pharmacy with several branches. | TypeScript, Arabic RTL | [Live](https://hr-pharmacy-nine.vercel.app/) |
 
-<h3>Languages and Tools:</h3>
+## Tools I use
+
 <p>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,tailwind,mongodb,git,github,vercel,cloudflare,figma&perline=11" alt="C#, .NET, TypeScript, Next.js, Tailwind CSS, MongoDB, Git, GitHub, Vercel, Cloudflare, Figma" />
 </p>
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/mayar-issa/) · [Email](mailto:Myar.issa2003@gmail.com)
